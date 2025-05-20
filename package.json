@@ -1,0 +1,35 @@
+{
+  "name": "telegram-gemini-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot powered by Google's Gemini AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaiverid <https://github.com/zaiverid>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "gemini",
+    "ai",
+    "chatbot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaiverid/Gemini-OpenAI"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
