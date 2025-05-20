@@ -101,6 +101,6 @@ Dikembangkan oleh **[Zaiverid](https://github.com/zaiverid)**.
 
 ### **🎉 Siap Digunakan!**
 Ikuti langkah-langkahnya, dan **Bot Telegram Gemini AI** Anda akan berjalan di **Termux (Android)**.  
-Untuk masalah, periksa **[GitHub Issues](https://github.com/zaiverid/Gemini-OpenAI/issues)** atau buat yang baru.  
+Untuk masalah, periksa **[GitHub Issues](https://github.com/zaiverid/Gemini-OpenAI/issues)** .  
 
 **Selamat Mencoba** 👨‍💻
