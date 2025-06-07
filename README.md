@@ -67,40 +67,9 @@ Bot sekarang seharusnya sudah **online**! 🚀
 
 ---
 
-## **⚠️ Pemecahan Masalah**
-### **1. Izin Termux**
-Jika Termux tidak bisa mengakses penyimpanan:
-```bash
-termux-setup-storage
-```
 
-### **2. Node.js Tidak Ditemukan**
-Jika `node` atau `npm` tidak bekerja:
-```bash
-pkg reinstall nodejs
-```
-
-### **3. Masalah Kunci API**
-- Pastikan `.env` sudah benar.
-- Periksa apakah **Kunci API Gemini** valid.
-
----
-
-## **📜 Lisensi**
-Proyek ini menggunakan **Lisensi MIT**.  
-Dikembangkan oleh **[Zaiverid](https://github.com/zaiverid)**.
-
----
-
-## **🔗 Tautan Berguna**
+## **🔗 Tautan**
 - [Termux GitHub](https://github.com/termux/termux-app)
 - [Google AI Studio](https://aistudio.google.com/)
 - [Telegram BotFather](https://t.me/BotFather)
 
----
-
-### **🎉 Siap Digunakan!**
-Ikuti langkah-langkahnya, dan **Bot Telegram Gemini AI** Anda akan berjalan di **Termux (Android)**.  
-Untuk masalah, periksa **[GitHub Issues](https://github.com/zaiverid/Gemini-OpenAI/issues)** .  
-
-**Selamat Mencoba** 👨‍💻
